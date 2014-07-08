@@ -31,3 +31,4 @@ The app that is running is a simple HelloWorld - program in C#:
 	      }
     }
 
+This project [stands on the shoulders of giants.](http://friism.com/running-net-apps-on-docker)
