@@ -1,0 +1,9 @@
+#! /bin/bash
+
+cd Docker-mono 
+sudo docker build -t andmos/mono .
+cd ..
+sudo docker build -t andmos/mono-helloworld .
+sudo docker run -i -t andmos/mono
+sudo docker run -i -t andmos/mono-helloworld
+
