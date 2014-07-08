@@ -13,7 +13,7 @@ And then
 	chmod +x DeployHelloWorld
 	./DeployHelloWorld
 	
-The Dockerfile looks for .exe's [HelloWorldProject/bin/Debug].
+The Dockerfile looks for .exe's `HelloWorldProject/bin/Debug`.
 
 
 The app that is running is a simple HelloWorld - program in C#: 
