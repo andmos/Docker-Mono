@@ -1,6 +1,6 @@
 FROM andmos/mono
 
-ADD KatanaTest/bin/Debug/*
+ADD KatanaTest/bin/Debug/ .
 
 EXPOSE 5000
 

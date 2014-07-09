@@ -3,5 +3,5 @@
 cd Docker-mono
 sudo docker build -t andmos/mono .
 cd ../KatanaTest
-sudo docker build -t andmos/katanaweb
+sudo docker build -t andmos/katanaweb .
 sudo docker run -p 80:5000 -t andmos/katanaweb
