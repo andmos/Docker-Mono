@@ -1,0 +1,15 @@
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\KatanaTest.exe.config
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\KatanaTest.exe
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\KatanaTest.pdb
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Owin.dll
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\obj\Debug\KatanaTest.csprojResolveAssemblyReference.cache
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\obj\Debug\KatanaTest.exe
+C:\Users\anm\Documents\GitHub\KatanaTest\KatanaTest\obj\Debug\KatanaTest.pdb

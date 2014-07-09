@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Owin.Diagnostics</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Owin.Diagnostics.WelcomePageMiddleware">
+            <summary>
+            This middleware provides a default web page for new applications.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Owin.Diagnostics.WelcomePageMiddleware.#ctor(System.Func{System.Collections.Generic.IDictionary{System.String,System.Object},System.Threading.Tasks.Task},Microsoft.Owin.Diagnostics.WelcomePageOptions)">
+            <summary>
+            Creates a default web page for new applications.
+            </summary>
+            <param name="next"></param>
+            <param name="options"></param>
+        </member>
+        <member name="M:Microsoft.Owin.Diagnostics.WelcomePageMiddleware.Invoke(System.Collections.Generic.IDictionary{System.String,System.Object})">
+             <summary>
+            
+             </summary>
+             <param name="environment"></param>
+             <returns></returns>
+        </member>
+        <member name="T:Owin.ErrorPageExtensions">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Owin.ErrorPageExtensions.UseErrorPage(Owin.IAppBuilder)">
+            <summary>
+            Captures synchronous and asynchronous exceptions from the pipeline and generates HTML error responses.
+            </summary>
+            <param name="builder"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Microsoft.Owin.Diagnostics.ErrorPageMiddleware">
+            <summary>
+            Captures synchronous and asynchronous exceptions from the pipeline and generates HTML error responses.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Owin.Diagnostics.ErrorPageMiddleware.#ctor(System.Func{System.Collections.Generic.IDictionary{System.String,System.Object},System.Threading.Tasks.Task})">
+            <summary>
+            
+            </summary>
+            <param name="next"></param>
+        </member>
+        <member name="M:Microsoft.Owin.Diagnostics.ErrorPageMiddleware.Invoke(System.Collections.Generic.IDictionary{System.String,System.Object})">
+            <summary>
+            
+            </summary>
+            <param name="environment"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
