@@ -31,4 +31,18 @@ The app that is running is a simple HelloWorld - program in C#:
 	      }
     }
 
+But what about webapps? 
+
+The [OWIN Katana project](http://katanaproject.codeplex.com/) promises to take away the need for IIS.
+Lets try that in Docker:
+		
+		git clone https://github.com/andmos/Docker-Mono.git
+		./DeployKatanaTest
+		Started! Hello from OWA Katana, running isolated in Docker!
+
+Head over to http://localhost and see for yourself.
+<br>
+Oh, did I mention [SingnalR runs on Katana?](http://www.dotnetcurry.com/showarticle.aspx?ID=915)
+
+
 This project [stands on the shoulders of giants.](http://friism.com/running-net-apps-on-docker)
