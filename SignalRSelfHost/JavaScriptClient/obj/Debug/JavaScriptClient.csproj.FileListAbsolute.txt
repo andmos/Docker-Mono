@@ -1,6 +1,0 @@
-C:\Users\anm\documents\visual studio 2013\Projects\SignalRSelfHost\JavaScriptClient\bin\JavaScriptClient.dll.config
-C:\Users\anm\documents\visual studio 2013\Projects\SignalRSelfHost\JavaScriptClient\bin\JavaScriptClient.dll
-C:\Users\anm\documents\visual studio 2013\Projects\SignalRSelfHost\JavaScriptClient\bin\JavaScriptClient.pdb
-C:\Users\anm\documents\visual studio 2013\Projects\SignalRSelfHost\JavaScriptClient\obj\Debug\JavaScriptClient.csprojResolveAssemblyReference.cache
-C:\Users\anm\documents\visual studio 2013\Projects\SignalRSelfHost\JavaScriptClient\obj\Debug\JavaScriptClient.dll
-C:\Users\anm\documents\visual studio 2013\Projects\SignalRSelfHost\JavaScriptClient\obj\Debug\JavaScriptClient.pdb
