@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 2012
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRSelfHost", "SignalRSelfHost\SignalRSelfHost.csproj", "{3984C470-92AA-464C-A863-6024D81D5812}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptClient", "JavaScriptClient\JavaScriptClient.csproj", "{974F4267-6118-415C-AA93-20A59DCFF33A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,9 @@ Global
 		{3984C470-92AA-464C-A863-6024D81D5812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3984C470-92AA-464C-A863-6024D81D5812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3984C470-92AA-464C-A863-6024D81D5812}.Release|Any CPU.Build.0 = Release|Any CPU
-		{974F4267-6118-415C-AA93-20A59DCFF33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{974F4267-6118-415C-AA93-20A59DCFF33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{974F4267-6118-415C-AA93-20A59DCFF33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{974F4267-6118-415C-AA93-20A59DCFF33A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SignalRSelfHost\SignalRSelfHost.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

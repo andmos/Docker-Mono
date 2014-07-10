@@ -1,0 +1,15 @@
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/SignalRSelfHost.exe.mdb
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/SignalRSelfHost.exe
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/obj/Debug/SignalRSelfHost.exe
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/obj/Debug/SignalRSelfHost.exe.mdb
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Microsoft.AspNet.SignalR.Core.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Microsoft.Owin.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Microsoft.Owin.Cors.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Microsoft.Owin.Diagnostics.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Microsoft.Owin.Host.HttpListener.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Microsoft.Owin.Hosting.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Microsoft.Owin.Security.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Owin.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/System.Web.Cors.dll
+/Users/andreasmosti/Dev/Docker-Mono/SignalRSelfHost/SignalRSelfHost/bin/Debug/Newtonsoft.Json.dll
