@@ -44,5 +44,6 @@ Head over to http://localhost and see for yourself.
 <br>
 Oh, did I mention [SingnalR runs on Katana?](http://www.dotnetcurry.com/showarticle.aspx?ID=915)
 
+Feel free to use the [Dockerfile](https://github.com/andmos/Docker-Mono/blob/master/Docker-mono/Dockerfile) for Mono and do youre own testing and packing! 
 
 This project [stands on the shoulders of giants.](http://friism.com/running-net-apps-on-docker)
