@@ -1,0 +1,25 @@
+#! /bin/bash
+
+function install() {
+sudo apt-get install -y $1 >/dev/null 2>&1 
+    }
+
+programs="build-essential vim curl  htop git make python-dev" 
+
+echo "Installing essentials... "
+
+sudo apt-get update >/dev/null 2>&1 
+
+for program in $programs
+do 
+    echo "Current package: $program" 
+    install $program 
+
+done 
+
+Installing Docker:
+
+curl -s https://get.docker.io/ubuntu/ | sudo sh >/dev/null 
+
+
+echo "All done! Go 'vagrant ssh' to access the server." 
