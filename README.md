@@ -13,6 +13,15 @@ And then
 	chmod +x DeployHelloWorld
 	./DeployHelloWorld
 	
+Or use the `vagrantfile`:
+
+	vagrant up
+	vagrant ssh
+	cd /vagrant/
+	chmod +x DeployHelloWorld
+	./DeployHelloWorld
+
+
 The Dockerfile looks for .exe's `HelloWorldProject/bin/Debug`.
 
 
