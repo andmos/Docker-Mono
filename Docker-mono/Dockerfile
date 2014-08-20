@@ -1,6 +1,7 @@
 FROM ubuntu:12.04
 MAINTAINER Andreas Mosti, andreas.mosti@gmail.com
 
+RUN apt-get update 
 RUN apt-get -y -q install wget
 RUN wget -q http://download.opensuse.org/repositories/home:tpokorra:mono/xUbuntu_12.04/Release.key -O- | apt-key add -
 RUN apt-get remove -y --auto-remove wget
