@@ -1,5 +1,9 @@
 Docker-Mono
 ===========
+>Since Microsoft and Docker now are partners, it has started to pop up a lot of tutorials on how to run Mono and ASP.NET vnext in
+Docker. Here are some good ones: [Creating an ASP.NET vNext Docker Container using
+Mono](http://msopentech.com/blog/2014/11/07/creating-asp-net-vnext-docker-container-using-mono-2/), [Getting Started with Docker
+on Microsoft Azure](http://msopentech.com/blog/2014/08/15/getting_started_docker_on_microsoft_azure/)
 
 This project is a simple PoC showing .Net running via Mono in a [Docker](https://www.docker.com/) container, completely isolated.
 
