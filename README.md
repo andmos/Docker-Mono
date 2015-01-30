@@ -64,5 +64,7 @@ The Mono Dockerfile is also available on the public repository:
     docker run andmos/mono
 
 
+I have also written some [words](https://t.co/Vu9gHsdGic) about using Vagrant and Docker to compile, test and deploy .NET code
+with Vagrant and Docker.
 
 This project [stands on the shoulders of giants.](http://friism.com/running-net-apps-on-docker)
