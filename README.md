@@ -7,16 +7,16 @@ on Microsoft Azure](http://msopentech.com/blog/2014/08/15/getting_started_docker
 
 This project is a simple PoC showing .Net running via Mono in a [Docker](https://www.docker.com/) container, completely isolated.
 
-To try it out, simply install Docker (if you don't already have it!) 
-	
+To try it out, simply install Docker (if you don't already have it!)
+
 	curl -s https://get.docker.io/ubuntu/ | sudo sh
 
 And then
 
-	git clone https://github.com/andmos/Docker-Mono.git 
+	git clone https://github.com/andmos/Docker-Mono.git
 	chmod +x DeployHelloWorld
 	./DeployHelloWorld
-	
+
 Or use the `vagrantfile`:
 
 	vagrant up
@@ -29,7 +29,7 @@ Or use the `vagrantfile`:
 The Dockerfile looks for .exe's `HelloWorldProject/bin/Debug`.
 
 
-The app that is running is a simple HelloWorld - program in C#: 
+The app that is running is a simple HelloWorld - program in C#:
 
     using System;
 
@@ -44,11 +44,11 @@ The app that is running is a simple HelloWorld - program in C#:
 	      }
     }
 
-But what about webapps? 
+But what about webapps?
 
 The [OWIN Katana project](http://katanaproject.codeplex.com/) promises to take away the need for IIS.
 Lets try that in Docker:
-		
+
 		git clone https://github.com/andmos/Docker-Mono.git
 		./DeployKatanaTest
 		Started! Hello from OWA Katana, running isolated in Docker!
@@ -57,7 +57,7 @@ Head over to http://localhost and see for yourself.
 <br>
 Oh, did I mention [SingnalR runs on Katana?](http://www.dotnetcurry.com/showarticle.aspx?ID=915)
 
-Feel free to use the [Dockerfile](https://github.com/andmos/Docker-Mono/blob/master/Docker-mono/Dockerfile) for Mono and do youre own testing and packing! 
+Feel free to use the [Dockerfile](https://github.com/andmos/Docker-Mono/blob/master/Docker-mono/Dockerfile) for Mono and do youre own testing and packing!
 
 The Mono Dockerfile is also available on the public repository:
 
@@ -66,5 +66,8 @@ The Mono Dockerfile is also available on the public repository:
 
 I have also written some [words](https://t.co/Vu9gHsdGic) about using Vagrant and Docker to compile, test and deploy .NET code
 with Vagrant and Docker.
+
+For a "production" example of SignalR running in Docker, I have contributed that part to [this](https://github.com/Hammerstad/DIRCServer) project. Check it out. 
+
 
 This project [stands on the shoulders of giants.](http://friism.com/running-net-apps-on-docker)
