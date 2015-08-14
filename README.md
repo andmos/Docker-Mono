@@ -9,7 +9,7 @@ This project is a simple PoC showing .Net running via Mono in a [Docker](https:/
 
 To try it out, simply install Docker (if you don't already have it!)
 
-	curl -s https://get.docker.io/ubuntu/ | sudo sh
+	curl -sSL https://get.docker.com/ | sh
 
 And then
 
