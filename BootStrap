@@ -19,7 +19,7 @@ done
 
 Installing Docker:
 
-curl -s https://get.docker.io/ubuntu/ | sudo sh >/dev/null 
+curl -sSL https://get.docker.com/ | sh
 
 
 echo "All done! Go 'vagrant ssh' to access the server." 
