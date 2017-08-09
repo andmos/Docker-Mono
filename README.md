@@ -1,5 +1,7 @@
 Docker-Mono
 ===========
+:warning: This project was a good "how-to" back in the day, before Mono created official images. Read it for historical reasons - then head over to [The offical Mono images](https://github.com/mono/docker). 
+
 >Since Microsoft and Docker now are partners, it has started to pop up a lot of tutorials on how to run Mono and ASP.NET vnext in
 Docker. Here are some good ones: [Creating an ASP.NET vNext Docker Container using
 Mono](http://msopentech.com/blog/2014/11/07/creating-asp-net-vnext-docker-container-using-mono-2/), [Getting Started with Docker
